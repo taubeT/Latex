@@ -1,0 +1,48 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Buddharaju and Pamidi(2013)]{MobileExergames}
+Pradeep Buddharaju and Naga Siva Chandra~Prasad Pamidi.
+\newblock Mobile exergames - burn calories while playing games on a smartphone.
+\newblock In \emph{Computer Vision and Pattern Recognition Workshops (CVPRW),
+  2013 IEEE Conference on}, pages 50 -- 51, Portland, OR, 23-28 June 2013.
+  IEEE.
+\newblock \doi{10.1109/CVPRW.2013.13}.
+
+\bibitem[Fogg(2009)]{BehaviorModel}
+BJ~Fogg.
+\newblock A behavior model for persuasive design.
+\newblock \emph{Proceedings of the 4th International Conference on Persuasive
+  Technology}, 40\penalty0 (40), 2009.
+
+\bibitem[Ledoux(August 2003)]{Motivation}
+Joseph Ledoux.
+\newblock \emph{Das Netz der Pers{\"o}nlichkeit}.
+\newblock Patmos-Verlag der Schwabenverlag AG, D{\"u}sseldorf, walter, 2003
+  edition, August 2003.
+\newblock ISBN 978-3423342797.
+
+\bibitem[Merchant(JANUARY 14, 2013)]{SittingIsSmoking}
+Nilofer Merchant.
+\newblock {S}itting {I}s the {S}moking of {O}ur {G}eneration.
+\newblock \emph{Harvard Business Review}, JANUARY 14, 2013.
+
+\bibitem[Sinclair et~al.(2007)Sinclair, Hingston, and Masek]{Considerations}
+Jeff Sinclair, Philip Hingston, and Martin Masek.
+\newblock {C}onsiderations for the {D}esign of {E}xergames.
+\newblock In \emph{Proceedings of the 5th international conference on Computer
+  graphics and interactive techniques in Australia and Southeast Asia}, pages
+  289--295, New York, NY, USA, 2007. ACM Press.
+\newblock ISBN 978-1-59593-912-8.
+
+\bibitem[Wylie and Coulton(2008)]{MobileExergaming}
+Carlos~Garcia Wylie and Paul Coulton.
+\newblock {M}obile {e}xergming.
+\newblock \emph{Proceedings of the 2008 International Conference on Advances in
+  Computer Entertainment Technology}, pages 338--341, 2008.
+
+\end{thebibliography}
