@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.20)  20 NOV 2015 20:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.20)  23 NOV 2015 00:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1131,7 +1131,7 @@ LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
 Package  Warning: Title has more then 3 lines. Fontsize reduced on input line 1
 46.
 
-<tud_logo.pdf, id=32, 157.58875pt x 63.23625pt>
+<tud_logo.pdf, id=52, 157.58875pt x 63.23625pt>
 File: tud_logo.pdf Graphic file (type pdf)
  <use tud_logo.pdf>
 Package pdftex.def Info: tud_logo.pdf used on input line 146.
@@ -1221,25 +1221,25 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 178.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 178.
 Package rerunfilecheck Info: File `"Triggering System Motivation".out' has not 
 changed.
-(rerunfilecheck)             Checksum: DA3D37BA06DC0A7356A6057E28FEDD42;414.
+(rerunfilecheck)             Checksum: 3B7A48EC107100738CDDC392847D3A02;754.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 178.
  ) 
 Here is how much of TeX's memory you used:
- 14121 strings out of 494935
- 217572 string characters out of 6178121
+ 14139 strings out of 494935
+ 217823 string characters out of 6178121
  356720 words of memory out of 5000000
- 17026 multiletter control sequences out of 15000+600000
- 78292 words of font info for 62 fonts, out of 8000000 for 9000
+ 17038 multiletter control sequences out of 15000+600000
+ 92825 words of font info for 64 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  59i,12n,100p,1036b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/
 fonts/type1/softmake/charter/5chr8a.pfb></usr/share/texmf/fonts/type1/softmake/
 charter/5chri8a.pfb></usr/share/texmf/fonts/type1/softmake/frontpage/5fpm8a.pfb
 ></usr/share/texmf/fonts/type1/softmake/frontpage/5fpr8a.pfb>
-Output written on "Triggering System Motivation.pdf" (11 pages, 87643 bytes).
+Output written on "Triggering System Motivation.pdf" (11 pages, 89742 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 74 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 167 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
